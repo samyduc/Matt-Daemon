@@ -1,0 +1,9 @@
+;red code
+;name Matt Daemon
+;author Samy Duc
+;strategy replicator
+;strategy create small bomber
+;strategy too slow
+;assert CORESIZE==8000
+
+Red code warrior written for http://www.corewar.info/tournament/icpc1/ .
